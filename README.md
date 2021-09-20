@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @pd636
+- 👋 Hi, I’m Prasad
 - 👀 I’m interested in Computer Science focusing in Machine Learning and it's applications.
-- 🌱 I’m currently learning Python, studying for AWS certification and reading about Blockchain and it's applications.
+- 🌱 I’m currently learning Python and reading about Blockchain and it's applications.
 - 💞️ I’m looking to collaborate on Research and Development related to CS.
 - 📫 How to reach me on : https://www.linkedin.com/in/deshpande-prasad/
 
